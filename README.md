@@ -1,0 +1,1 @@
+# Strain-and-Deflection-calculation-by-FEA-method-for-2-mesh-elements
